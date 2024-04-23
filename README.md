@@ -52,4 +52,8 @@ The following animation demonstrates the application functionality:
 
 ![Demonstration](./Assets/Untitled_%20Apr%2022,%202024%209_25%20PM.gif)
 
+# License 
+
+[![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
+
 
